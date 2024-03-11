@@ -1,0 +1,3 @@
+pro zobrazeni weboveho rozhrani je nutne celou slozku "webove_rozhrani" umistit do na misto C:\xampp\htdocs
+
+Dalsi nstaveni weboveho rozhrani je popsano v priloze G
