@@ -1,5 +1,6 @@
 # Chytrá zahrada - Bakalářská Práce
 Tato bakalářská práce má za úkol navrhnout koncepci distribuovaného řídícího systému pro chytrou zahradu. Definovat požadavky pro každou vrstvu řídícího systému a vybrat vhodnou desku s mikrokontroléry, které budou schopny komunikovat s vývojovým prostředím Arduino IDE. Pro demonstraci je navrhnut model hladinoměru, který snímá výšku hladiny vody ve studni. Tento modul odesílá změřená data o vrstvu výše a zároveň je zobrazuje lokálně na displeji modulu. Tímto řešením máme modul, který dokáže být samostatný v řídícím systému. 
+## Hodnocení text a přílohy bakalářské práce: https://www.vut.cz/studenti/zav-prace/detail/142266 
 
 ## Model distribuovaného systému
 ![bp_model](https://github.com/HonzaAntos/smart_garden/assets/112206462/1c94201b-5069-4766-9964-969bacb55293)
